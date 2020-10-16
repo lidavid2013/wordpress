@@ -1,0 +1,112 @@
+# Translation of Plugins - Restrict Categories - Stable (latest release) in English (Australia)
+# This file is distributed under the same license as the Plugins - Restrict Categories - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-01 23:26:39+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_AU\n"
+"Project-Id-Version: Plugins - Restrict Categories - Stable (latest release)\n"
+
+#: restrict-categories.php:918
+msgid "Last page"
+msgstr "Last page"
+
+#: restrict-categories.php:907
+msgid "Next page"
+msgstr "Next page"
+
+#: restrict-categories.php:899
+msgctxt "paging"
+msgid "%1$s of %2$s"
+msgstr "%1$s of %2$s"
+
+#: restrict-categories.php:889 restrict-categories.php:893
+msgid "Current Page"
+msgstr "Current Page"
+
+#: restrict-categories.php:882
+msgid "Previous page"
+msgstr "Previous page"
+
+#: restrict-categories.php:871
+msgid "First page"
+msgstr "First page"
+
+#: restrict-categories.php:834
+msgid "%s item"
+msgid_plural "%s items"
+msgstr[0] "%s item"
+msgstr[1] "%s items"
+
+#: restrict-categories.php:777
+msgid "Select All"
+msgstr "Select All"
+
+#: restrict-categories.php:477
+msgid "Reset"
+msgstr "Reset"
+
+#: restrict-categories.php:475
+msgid "This option will reset all changes you have made to the default configuration.  <strong>You cannot undo this process</strong>."
+msgstr "This option will reset all changes you have made to the default configuration.  <strong>You cannot undo this process</strong>."
+
+#: restrict-categories.php:474
+msgid "Reset to Default Settings"
+msgstr "Reset to Default Settings"
+
+#: restrict-categories.php:456
+msgid "Search Users"
+msgstr "Search Users"
+
+#: restrict-categories.php:453
+msgid "Selecting categories for a user will <em>override</em> the categories you have chosen for that user's role."
+msgstr "Selecting categories for a user will <em>override</em> the categories you have chosen for that user's role."
+
+#: restrict-categories.php:423
+msgid "Users"
+msgstr "Users"
+
+#: restrict-categories.php:422
+msgid "Roles"
+msgstr "Roles"
+
+#: restrict-categories.php:416
+msgid "View All Users"
+msgstr "View All Users"
+
+#: restrict-categories.php:415
+msgid "Search results for \"%s\""
+msgstr "Search results for \"%s\""
+
+#: restrict-categories.php:207
+msgid "Settings"
+msgstr "Settings"
+
+#: restrict-categories.php:185
+msgid "Restrict Categories reset"
+msgstr "Restrict Categories reset"
+
+#: restrict-categories.php:163
+msgid "Security check"
+msgstr "Security check"
+
+#. Author URI of the plugin
+msgid "http://vfbpro.com"
+msgstr "http://vfbpro.com"
+
+#. Author of the plugin
+msgid "Matthew Muro"
+msgstr "Matthew Muro"
+
+#. Description of the plugin
+msgid "Restrict the categories that users can view, add, and edit in the admin panel."
+msgstr "Restrict the categories users can view, add, and edit in the admin panel."
+
+#. Plugin Name of the plugin
+#: restrict-categories.php:379 restrict-categories.php:411
+msgid "Restrict Categories"
+msgstr "Restrict Categories"

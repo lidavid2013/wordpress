@@ -1,0 +1,715 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fitness Schedule\n"
+"POT-Creation-Date: 2018-06-01 19:34+0200\n"
+"PO-Revision-Date: 2018-09-08 10:39+0200\n"
+"Last-Translator: Maxime BERNARD-JACQUET <maxime@dysign.fr>\n"
+"Language-Team: Maxime BERNARD-JACQUET <maxime@dysign.fr>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: fitness-planning.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/templates/coach/metabox-about.php:5
+msgid "A few words about him"
+msgstr "Quelques mots sur lui/elle"
+
+#: admin/templates/planning/column-shortcode.php:3
+msgctxt "verb"
+msgid "Copy"
+msgstr "Copier"
+
+#: admin/templates/planning/metabox-planning-styling.php:1
+msgid "Days text color"
+msgstr "Couleur des jours"
+
+#: admin/templates/planning/metabox-planning-styling.php:4
+msgid "Background color"
+msgstr "Couleur de fond"
+
+#: admin/templates/planning/metabox-planning-styling.php:7
+msgid "Border color"
+msgstr "Couleur des bordures"
+
+#: admin/templates/planning/metabox-planning-styling.php:10
+msgid "Pixels per hour"
+msgstr "Pixels par heure"
+
+#: admin/templates/planning/metabox-planning-styling.php:11
+msgid "Info: logos won't show when there isn't enough height"
+msgstr "Info: les logo n'apparaissent que s'ils ont assez d'espace"
+
+#: admin/templates/planning/metabox-planning-styling.php:12
+msgid "per hour"
+msgstr "par heure"
+
+#: admin/templates/planning/metabox-settings.php:3
+msgid "Show"
+msgstr "Afficher"
+
+#: admin/templates/planning/metabox-settings.php:14
+msgid "Planning hours"
+msgstr "Horaires du planning"
+
+#: admin/templates/planning/metabox-settings.php:18
+msgid "Morning:"
+msgstr "Matin :"
+
+#: admin/templates/planning/metabox-settings.php:20
+#: admin/templates/planning/metabox-settings.php:34
+#: admin/templates/planning/metabox-workout.php:24
+msgid "from"
+msgstr "de"
+
+#: admin/templates/planning/metabox-settings.php:23
+#: admin/templates/planning/metabox-settings.php:37
+#: admin/templates/planning/metabox-workout.php:28
+msgid "to"
+msgstr "à"
+
+#: admin/templates/planning/metabox-settings.php:27
+#: admin/templates/planning/metabox-settings.php:41
+msgid "Start time can't be later than finish time"
+msgstr "L'heure de début ne peut pas être plus tard que celle de fin"
+
+#: admin/templates/planning/metabox-settings.php:33
+msgid "Afternoon:"
+msgstr "Après-midi :"
+
+#: admin/templates/planning/metabox-settings.php:44
+msgid "Afternoon starts before morning finish"
+msgstr "L'après midi démarre avant la fin de la matinée"
+
+#: admin/templates/planning/metabox-settings.php:48
+msgid "Others"
+msgstr "Autres réglages"
+
+#: admin/templates/planning/metabox-settings.php:50
+msgid ""
+"You can customize the first day of the week or the date format in <a href="
+"\"options-general.php\" target=\"_blank\">Settings > General</a>."
+msgstr ""
+"Vous pouvez personnaliser le premier jour de la semaine ou le format de date "
+"dans <a href=\"options-general.php\" target=\"_blank\">Réglages > Général</"
+"a>."
+
+#: admin/templates/planning/metabox-shortcode.php:2
+msgid "Simply copy/paste this code in a post or a page to display planning."
+msgstr ""
+"Pour afficher ce planning copiez/collez simplement ce code dans un article "
+"ou une page."
+
+#: admin/templates/planning/metabox-workout-styling.php:4
+msgid "Show workout logo"
+msgstr "Afficher les logos des cours"
+
+#: admin/templates/planning/metabox-workout-styling.php:10
+msgid "Show workout name"
+msgstr "Afficher le nom du cours"
+
+#: admin/templates/planning/metabox-workout-styling.php:16
+msgid "Show workout background color"
+msgstr "Afficher la couleur de fond"
+
+#: admin/templates/planning/metabox-workout-styling.php:20
+msgid "All items background color"
+msgstr "Couleur de fond de chaque élément"
+
+#: admin/templates/planning/metabox-workout-styling.php:24
+msgid "Text color"
+msgstr "Couleur du texte"
+
+#: admin/templates/planning/metabox-workout-styling.php:27
+msgid "Border radius"
+msgstr "Arrondi du rebord"
+
+#: admin/templates/planning/metabox-workout.php:5
+msgid ""
+"You don't have any workout to add to the planning. <a href='edit.php?"
+"post_type=workout'>Add a Workout</a>."
+msgstr ""
+"Vous n'avez encore aucun cours à mettre dans le planning. <a href='edit.php?"
+"post_type=workout'>Ajoutez votre premier cours</a>."
+
+#: admin/templates/planning/metabox-workout.php:8
+msgid "Add"
+msgstr "Ajouter"
+
+#: admin/templates/planning/metabox-workout.php:16
+msgid "on"
+msgstr "le"
+
+#: admin/templates/planning/metabox-workout.php:32
+msgid "with"
+msgstr "avec"
+
+#: admin/templates/planning/metabox-workout.php:39
+msgid "No coach defined"
+msgstr "Aucun coach"
+
+#: admin/templates/planning/metabox-workout.php:43
+msgid "Add to planning"
+msgstr "Ajouter au planning"
+
+#: admin/templates/planning/metabox-workout.php:46
+msgid "Cancel"
+msgstr "Annuler"
+
+#: admin/templates/planning/parts/planning-item-tpl.php:37
+#: admin/templates/planning/parts/planning-item.php:61
+#: public/templates/archive-workout.php:35
+#: public/templates/parts/planning-item.php:66
+#: public/templates/single-workout.php:28
+msgid "Visit official page"
+msgstr "Visiter la page officielle"
+
+#: admin/templates/planning/parts/planning-item-tpl.php:41
+#: admin/templates/planning/parts/planning-item.php:67
+#: public/templates/parts/planning-item.php:72
+msgid "By"
+msgstr "Avec"
+
+#: admin/templates/planning/parts/planning-item-tpl.php:50
+#: admin/templates/planning/parts/planning-item.php:78
+msgid "Click to edit"
+msgstr "Cliquez pour éditer"
+
+#: admin/templates/settings/settings.php:2 classes/Entities/Planning.php:130
+#: classes/WP/Settings.php:28 classes/WP/Settings.php:29
+msgid "Settings"
+msgstr "Réglages"
+
+#: admin/templates/settings/settings.php:12
+msgid "Time Step"
+msgstr "Intervalle de temps"
+
+#: admin/templates/settings/settings.php:15
+msgid "minutes"
+msgstr "minutes"
+
+#: admin/templates/settings/settings.php:16
+msgid ""
+"Interval of time used for choosing workouts start time and duration. "
+"Default: 15 minutes."
+msgstr ""
+"Intervalle de temps utilisé pour choisir une heure. Défini sur 15 minutes "
+"par défaut."
+
+#: admin/templates/settings/settings.php:21
+#: admin/templates/settings/settings.php:25
+msgid "Workouts archive"
+msgstr "Archive des cours"
+
+#: admin/templates/settings/settings.php:30
+#: admin/templates/settings/settings.php:46
+msgid "Activate"
+msgstr "Activer"
+
+#: admin/templates/settings/settings.php:37
+#: admin/templates/settings/settings.php:41
+msgid "Coachs archive"
+msgstr "Archive des coachs"
+
+#: admin/templates/settings/settings.php:56
+msgid ""
+"Don't forget to flush WP permalinks structure after enabling archives pages. "
+"Go in Settings > Permalinks and hit Save button"
+msgstr ""
+"N'oubliez pas de mettre à jour la structure des permaliens après avoir "
+"activé les archives. Allez dans Réglages > Permaliens et cliquez sur "
+"enregistrer"
+
+#: admin/templates/workout/metabox-about.php:8
+msgid "Color"
+msgstr "Couleur"
+
+#: admin/templates/workout/metabox-about.php:9
+msgid "Choose a background color for this workout"
+msgstr "Choisissez un fond pour ce cours"
+
+#: admin/templates/workout/metabox-about.php:12
+msgid "URL"
+msgstr "URL"
+
+#: admin/templates/workout/metabox-about.php:13
+msgid "Optional. Workout official description page URL"
+msgstr "Optionnelle. Page officielle de description du cours"
+
+#: admin/templates/workout/metabox-about.php:19
+msgid "Description"
+msgstr "Description"
+
+#: classes/Entities/Coach.php:39 classes/Entities/Coach.php:79
+msgid "Coachs"
+msgstr "Coachs"
+
+#: classes/Entities/Coach.php:40
+msgid "All coachs"
+msgstr "Tous les coachs"
+
+#: classes/Entities/Coach.php:41
+msgid "Coach"
+msgstr "Coach"
+
+#: classes/Entities/Coach.php:42
+msgid "Add a coach"
+msgstr "Ajouter un coach"
+
+#: classes/Entities/Coach.php:43
+msgid "Edit coach"
+msgstr "Modifier le coach"
+
+#: classes/Entities/Coach.php:44
+msgid "No coachs found."
+msgstr "Aucun coach trouvé."
+
+#: classes/Entities/Coach.php:58
+msgctxt "Post type slug"
+msgid "coachs"
+msgstr "coachs"
+
+#: classes/Entities/Coach.php:86
+msgid "About the coach"
+msgstr "À propos du coach"
+
+#: classes/Entities/Planning.php:71 classes/Entities/Planning.php:96
+msgid "Plannings"
+msgstr "Plannings"
+
+#: classes/Entities/Planning.php:72
+msgid "All plannings"
+msgstr "Tous les plannings"
+
+#: classes/Entities/Planning.php:73
+msgid "Planning"
+msgstr "Planning"
+
+#: classes/Entities/Planning.php:74
+msgid "Add a planning"
+msgstr "Ajouter un planning"
+
+#: classes/Entities/Planning.php:75
+msgid "Edit planning"
+msgstr "Modifier le planning"
+
+#: classes/Entities/Planning.php:76
+msgid "No plannings found."
+msgstr "Aucun planning trouvé."
+
+#: classes/Entities/Planning.php:126 classes/Entities/Workout.php:44
+msgid "Add a workout"
+msgstr "Ajouter un cours"
+
+#: classes/Entities/Planning.php:128
+msgid "Planning Preview"
+msgstr "Prévisualisation du planning"
+
+#: classes/Entities/Planning.php:132 classes/Entities/Planning.php:166
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: classes/Entities/Planning.php:134
+msgid "Customize Workouts"
+msgstr "Personnaliser les Cours"
+
+#: classes/Entities/Planning.php:136
+msgid "Customize Planning"
+msgstr "Personnaliser le Planning"
+
+#: classes/Entities/Planning.php:188
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+#: classes/Entities/Planning.php:213
+msgctxt "noun"
+msgid "Copy"
+msgstr "Copie"
+
+#: classes/Entities/Workout.php:41 classes/Entities/Workout.php:81
+msgid "Workouts"
+msgstr "Cours"
+
+#: classes/Entities/Workout.php:42
+msgid "All workouts"
+msgstr "Tous les cours"
+
+#: classes/Entities/Workout.php:43
+msgid "Workout"
+msgstr "Cours"
+
+#: classes/Entities/Workout.php:45
+msgid "Edit workout"
+msgstr "Modifier le cours"
+
+#: classes/Entities/Workout.php:46
+msgid "No workout found."
+msgstr "Aucun cours trouvé."
+
+#: classes/Entities/Workout.php:60
+msgctxt "Post type slug"
+msgid "workouts"
+msgstr "cours"
+
+#: classes/Entities/Workout.php:88
+msgid "About the workout"
+msgstr "À propos du cours"
+
+#: classes/Helpers/Consts.php:51
+msgid "Select a image to upload"
+msgstr "Insérer un média"
+
+#: classes/Helpers/Consts.php:52
+msgid "Use this image"
+msgstr "Utiliser cette image"
+
+#: classes/Helpers/Consts.php:53
+msgid "Edit this Workout"
+msgstr "Modifier ce cours"
+
+#: classes/Helpers/Consts.php:54
+msgid "Apply changes"
+msgstr "Appliquer"
+
+#: classes/Helpers/Consts.php:55
+msgid "Edit"
+msgstr "Modifier"
+
+#: classes/Helpers/Consts.php:56
+msgid "Start time must be before end Time"
+msgstr "L'heure de début doit être avant l'heure de fin"
+
+#: classes/Helpers/Consts.php:57
+msgid ""
+"You can't add a workout here because there is already another one at this "
+"time. We suggest you make another planning (eg: special bike planning) "
+msgstr ""
+"Vous ne pouvez pas ajouter de cours ici car il y en a déjà un sur ce créneau "
+"horaire. Nous vous suggérons de créer un autre planning (ex: un planning "
+"spécial pour les cours de vélo) "
+
+#: classes/Helpers/Consts.php:58
+msgid "This workout is outside the current planning hours boundaries"
+msgstr "Ce cours est en dehors des limites horaires du planning"
+
+#: classes/Helpers/Fields.php:20 classes/Helpers/Fields.php:30
+msgid "Picture"
+msgstr "Photo"
+
+#: classes/Helpers/Fields.php:35
+msgid "Choose picture"
+msgstr "Choisir une image"
+
+#: classes/Helpers/Fields.php:36
+msgid "Change"
+msgstr "Remplacer"
+
+#: classes/Helpers/Fields.php:37
+msgid "Remove"
+msgstr "Retirer"
+
+#: classes/Services/planningServices.php:181
+msgid "Sunday"
+msgstr "Dimanche"
+
+#: classes/Services/planningServices.php:182
+msgid "Monday"
+msgstr "Lundi"
+
+#: classes/Services/planningServices.php:183
+msgid "Tuesday"
+msgstr "Mardi"
+
+#: classes/Services/planningServices.php:184
+msgid "Wednesday"
+msgstr "Mercredi"
+
+#: classes/Services/planningServices.php:185
+msgid "Thursday"
+msgstr "Jeudi"
+
+#: classes/Services/planningServices.php:186
+msgid "Friday"
+msgstr "Vendredi"
+
+#: classes/Services/planningServices.php:187
+msgid "Saturday"
+msgstr "Samedi"
+
+#: classes/WP/Activator.php:29
+msgctxt "Find it on official website"
+msgid ""
+"BODYATTACK™ is a high-energy fitness class with moves that cater for total "
+"beginners to total addicts. We combine athletic movements like running, "
+"lunging and jumping with strength exercises such as push-ups and squats."
+msgstr ""
+"Le BODYATTACK™ est un cours de fitness énergisant avec des mouvements qui "
+"s’adressent aussi bien aux débutants qu’aux passionnés. Nous combinons des "
+"mouvements athlétiques comme la course, des flexions et des sauts avec des "
+"exercices de force comme des pompes et des squats."
+
+#: classes/WP/Activator.php:36
+msgctxt "Find it on official website"
+msgid ""
+"BODYPUMP™ is a barbell workout for anyone looking to get lean, toned and fit "
+"– fast. Using light to moderate weights with lots of repetition, BODYPUMP "
+"gives you a total body workout. It will burn up to 540 calories."
+msgstr ""
+"BODYPUMP™ est pour toutes les personnes qui souhaitent s’affiner, se "
+"tonifier et se remettre en forme – rapidement. En faisant un grand nombre de "
+"répétitions avec des poids légers à moyens, BODYPUMP constitue un "
+"entraînement complet du corps. Vous brulerez jusqu’à 540 calories."
+
+#: classes/WP/Activator.php:43
+msgctxt "Find it on official website"
+msgid ""
+"Step into a BODYCOMBAT workout and you’ll punch and kick your way to "
+"fitness, burning up to 740 calories along the way. This high-energy martial-"
+"arts inspired workout is totally non-contact and there are no complex moves "
+"to master. "
+msgstr ""
+"Venez essayer un cours de BODYCOMBAT™ et vous mènerez votre combat vers la "
+"forme, grâce aux 740 calories que vous brulerez. Ce cours à haute intensité "
+"inspiré des arts martiaux est sans contact et il n’y a pas de mouvements "
+"compliqués à maîtriser. "
+
+#: classes/WP/Activator.php:50
+msgctxt "Find it on official website"
+msgid ""
+"Choreographed by Gandalf Archer-Mills in Auckland, New Zealand, BODYJAM™ is "
+"the ultimate combination of music and dance. Tracks that you love right now? "
+"They’re in BODYJAM. That new style you’ve heard about? It was in BODYJAM "
+"last year."
+msgstr ""
+"Chorégraphié par Gandalf Archer-Mills à Auckland, Nouvelle-Zélande, le "
+"BODYJAM™ est la combinaison parfaite de musique et de danse. Les morceaux du "
+"moment que vous aimez ? Ils sont déjà dans BODYJAM. Ce nouveau style dont "
+"vous avez entendu parler ? C’était dans un BODYJAM l’année dernière."
+
+#: classes/WP/Activator.php:57
+msgctxt "Find it on official website"
+msgid ""
+"We are excited to bring you LES MILLS TONE™. We listened to your global "
+"feedback and heard your desire for a more modern training experience. "
+"Created from the foundations of BODYVIVE 3.1, LES MILLS TONE maintains the "
+"original 3 in 1 training style - a mix of cardio, resistance and core while "
+"playing with different training concepts to ensure everyone gets the best "
+"results from their workouts."
+msgstr ""
+"Si vous recherchez le parfait mélange de travail de force, cardio et de "
+"renforcement du centre du corps, alors c’est le cours qu’il vous faut. "
+"Participez à un cours LES MILLS TONE et vous offrirez à votre corps un "
+"entraînement complet en 45 minutes. Son savant mélange intense de fentes, "
+"squats, travail fonctionnel et exercices avec élastique de résistance vous "
+"aidera à brûler des calories et à faire passer votre condition physique au "
+"niveau supérieur. "
+
+#: classes/WP/Activator.php:64
+msgctxt "Find it on official website"
+msgid ""
+"Ideal for anyone and everyone, BODYBALANCE™ is the yoga-based class that "
+"will improve your mind, your body and your life."
+msgstr ""
+"Idéal pour tout le monde, BODYBALANCE™ est le cours inspiré du yoga qui "
+"améliore votre esprit, votre corps et votre vie."
+
+#: classes/WP/Activator.php:71
+msgctxt "Find it on official website"
+msgid ""
+"RPM™ is a group indoor cycling workout where you control the intensity. It’s "
+"fun, low impact and you can burn up to 675 calories a session. With great "
+"music pumping and the group spinning as one, your instructor takes you on a "
+"journey of hill climbs, sprints and flat riding."
+msgstr ""
+"Le RPM™ est le cours de spinning qui donne un maximum de résultats avec un "
+"minimum d’impact sur vos articulations. Sur une musique énergisante, prenez "
+"la route avec votre coach qui emmènera le peloton sur un parcours jonché de "
+"collines à grimper, de sprints et de plats."
+
+#: classes/WP/Activator.php:78
+msgctxt "Find it on official website"
+msgid ""
+"Exercising muscles around the core, CXWORX™ provides the vital ingredient "
+"for a stronger body. A stronger core makes you better at all things you do, "
+"from everyday life to your favorite sports - it’s the glue that holds "
+"everything together."
+msgstr ""
+"En faisant travailler les muscles profonds CXWORX™ est l’ingrédient "
+"essentiel pour un corps plus fort. Une ceinture abdominale plus tonique vous "
+"rend meilleur - dans la vie de tous les jours comme dans vos activités "
+"sportives préférées - c’est le ciment qui maintient le corps."
+
+#: classes/WP/Activator.php:85
+msgctxt "Find it on official website"
+msgid ""
+"A fun-loving, insanely addictive dance workout. SH’BAM™ is an ego-free zone "
+"– no dance experience required. All you need is a playful attitude and a "
+"cheeky smile so forget being a wallflower – even if you walk in thinking you "
+"can’t, you’ll walk out knowing you can!"
+msgstr ""
+"Un cours de danse ludique et incroyablement addictif. Le SH’BAM™ est une "
+"zone sans ego – aucune expérience de danse n’est nécessaire. Tout ce qu’il "
+"faut c’est une attitude positive et délurée. Ne soyez pas timide – même si "
+"vous pensez ne pas y arriver, vous finirez le cours avec la preuve que vous "
+"en êtes capable !"
+
+#: classes/WP/Activator.php:92
+msgctxt "Find it on official website"
+msgid ""
+"LES MILLS GRIT™ Cardio is a 30-minute high-intensity interval training "
+"(HIIT) workout that improves cardiovascular fitness, increase speed and "
+"maximize calorie burn. This workout uses a variety of body weight exercises "
+"and provides the challenge and intensity you need to get results fast."
+msgstr ""
+"LES MILLS GRIT™ Cardio est un entraînement à haute intensité (HIIT) de 30 "
+"minutes qui améliore la forme cardiovasculaire, augmente la vitesse et "
+"maximise la dépense énergétique. Cet entraînement utilise un ensemble "
+"d’exercices utilisant le poids du corps, vous mettant au défi afin d’obtenir "
+"des résultats rapidement."
+
+#: classes/WP/Activator.php:99
+msgctxt "Find it on official website"
+msgid ""
+"LES MILLS GRIT™ Plyo is a 30-minute high-intensity interval training (HIIT) "
+"plyometric-based workout, designed to make you perform like an athlete. This "
+"workout uses a bench and combines explosive jumping exercises with agility "
+"training to increase explosiveness and to build a lean and athletic body. "
+msgstr ""
+"LES MILLS GRIT™ Plyo est un entraînement à haute intensité (HIIT) de 30 "
+"minutes, basé sur la pliométrie, conçu pour faire de vous un athlète. Cet "
+"entraînement utilise un banc et combine des exercices de détente verticale à "
+"des exercices d’agilité pour améliorer l’explosivité et dessiner un corps "
+"athlétique. "
+
+#: classes/WP/Activator.php:106
+msgctxt "Find it on official website"
+msgid ""
+"LES MILLS GRIT™ Strength is a 30-minute high-intensity interval training "
+"(HIIT) workout, designed to improve strength and build lean muscle. This "
+"workout uses barbell, weight plate and body weight exercises to blast all "
+"major muscle groups."
+msgstr ""
+"LES MILLS GRIT™ Strength est un entraînement à haute intensité (HIIT) de 30 "
+"minutes, conçu pour améliorer la force et développer la masse musculaire. "
+"Cet entraînement est composé d’exercices d’haltères et de poids du corps "
+"pour faire travailler les groupes musculaires principaux."
+
+#: classes/WP/Activator.php:113
+msgctxt "Find it on official website"
+msgid ""
+"LES MILLS SPRINT™ is a 30-minute High-Intensity Interval Training (HIIT) "
+"workout, using an indoor bike to achieve fast results."
+msgstr ""
+"LES MILLS SPRINT™ est un entraînement à haute intensité (HIIT), à base de "
+"spinning permettant d’obtenir des résultats très rapidement."
+
+#: classes/WP/Activator.php:120
+msgctxt "Find it on official website"
+msgid ""
+"Zumba involves dance and aerobic movements performed to energetic music. The "
+"choreography incorporates hip-hop, soca, samba, salsa, merengue and mambo. "
+"Squats and lunges are also included."
+msgstr ""
+"La Zumba est un programme d'entraînement physique complet, alliant tous les "
+"éléments de la remise en forme : cardio et préparation musculaire, équilibre "
+"et flexibilité. Les chorégraphies s'inspirent principalement des danses "
+"latines (salsa, merengue, cumbia, reggaeton, soca, samba, tango, flamenco…), "
+"mais aussi de styles variés comme la danse du ventre ou la Quebradita."
+
+#: public/templates/archive-coach.php:33
+#: public/templates/archive-workout.php:39
+msgid "Read more"
+msgstr "Lire la suite"
+
+#. Plugin Name of the plugin/theme
+msgid "Fitness Schedule"
+msgstr "Fitness Schedule"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://dysign.fr"
+msgstr "https://dysign.fr"
+
+#. Description of the plugin/theme
+msgid ""
+"Easily create and customize weekly timetables for your fitness club : Body "
+"Attack, Pump, Combat, Zumba..."
+msgstr ""
+"Créez facilement des planning hebdomadaires interactifs pour votre salle de "
+"fitness et gérez les cours du type Body Attack, Pump, Combat, Zumba..."
+
+#. Author of the plugin/theme
+msgid "Maxime BERNARD-JACQUET"
+msgstr "Maxime BERNARD-JACQUET"
+
+#~ msgctxt "Find it on official website"
+#~ msgid ""
+#~ "If you want the optimal mix of strength, cardio and core training this is "
+#~ "it. Step into a BODYVIVE™ class and you'll tick off a complete workout. "
+#~ "The challenging mix of lunges, squats, running and tubing exercises will "
+#~ "help you burn calories and take your fitness to the next level. You'll "
+#~ "leave fizzing with energy and on track for all-around healthy living."
+#~ msgstr ""
+#~ "Si vous souhaitez un entraînement qui mêle de façon optimale la force, le "
+#~ "cardio et le renforcement de la ceinture abdominale, le voici. Participer "
+#~ "à un cours de BODYVIVE™ vous fait faire un entraînement complet. Le "
+#~ "mélange stimulant de fentes, squats, course et d’exercices avec des "
+#~ "élastiques de résistance vous aidera à brûler des calories et à franchir "
+#~ "une nouvelle étape. Vous ferez le plein d’énergie et serez en route vers "
+#~ "une vie saine."
+
+#~ msgid "Fitness Planning"
+#~ msgstr "Fitness Planning"
+
+#~ msgid ""
+#~ "Easily create and customize interactive plannings for your fitness club : "
+#~ "Body Attack, Pump, Combat, Zumba..."
+#~ msgstr ""
+#~ "Créez et personnalisez facilement des plannings interactifs pour votre "
+#~ "salle de fitness : Body Attack, Pump, Combat, Zumba..."
+
+#~ msgid "With"
+#~ msgstr "Avec"
+
+#~ msgid "Styling"
+#~ msgstr "Personnalisation"
+
+#~ msgid "Copy"
+#~ msgstr "Copier"
+
+#~ msgid "Duration"
+#~ msgstr "Durée"
+
+#~ msgid "Eg: 45 min, 1 hour"
+#~ msgstr "Ex: 45 min, 1 heure"
+
+#~ msgid "Public"
+#~ msgstr "Public"
+
+#~ msgid "This workout suits best to..."
+#~ msgstr "Ce cours est idéal pour..."
+
+#~ msgid "On"
+#~ msgstr "Le"
+
+#~ msgid "From"
+#~ msgstr "De"
+
+#~ msgid "To"
+#~ msgstr "à"
+
+#~ msgid "Add a class"
+#~ msgstr "Ajouter un cours"
+
+#~ msgid "Coach profile picture"
+#~ msgstr "Photo de profil du coach"

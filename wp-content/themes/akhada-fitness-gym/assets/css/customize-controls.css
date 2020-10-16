@@ -1,0 +1,15 @@
+#customize-controls .control-section-akhada-fitness-gym .accordion-section-title:hover,
+#customize-controls .control-section-akhada-fitness-gym .accordion-section-title:focus {
+	background-color: #fff;
+}
+
+.control-section-akhada-fitness-gym .accordion-section-title .button {
+	margin-top:  -4px;
+	font-weight: 400;
+	margin-left: 8px;
+}
+
+.rtl .control-section-akhada-fitness-gym .accordion-section-title .button {
+	margin-left:  0;
+	margin-right: 8px;
+}

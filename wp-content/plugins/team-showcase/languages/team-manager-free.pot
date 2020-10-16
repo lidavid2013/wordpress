@@ -1,0 +1,555 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-07-11 20:57+0600\n"
+"PO-Revision-Date: 2020-07-11 20:55+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_n;_x;esc_attr__;esc_attr_e;esc_attr;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: css\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+"X-Poedit-SearchPathExcluded-2: fonts\n"
+
+#: admin/team-manager-free-post-type.php:20
+#: admin/team-manager-free-post-type.php:21
+#: admin/team-manager-free-post-type.php:22
+msgid "Team Showcase"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:23
+msgid "Team Manager"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:24
+msgid "Parent Item:"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:25
+msgid "All Team Members"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:26
+#: admin/team-manager-free-post-type.php:27
+msgid "Add New Member"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:28
+msgid "New Member"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:29
+msgid "Edit Member"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:30
+msgid "Update Member"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:31
+msgid "View Member"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:32
+msgid "Search Team Member"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:33
+msgid "Not found"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:34
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:35
+msgid "Team Member Image"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:36
+msgid "Set Team Member image"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:37
+msgid "Remove Team Member image"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:38
+msgid "Use as Team Member image"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:39
+msgid "Items list"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:40
+msgid "Items list navigation"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:41
+msgid "Filter items list"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:44
+msgid "Post Type"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:45
+msgid "Post Type Description"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:70
+msgid "Team Member Groups"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:71
+msgid "Team Group"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:72
+msgid "Search Groups"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:73
+msgid "All Groups"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:74
+msgid "Parent Group"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:75
+msgid "Parent Group:"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:76
+msgid "Edit Team Group"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:77
+msgid "Update Group"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:78
+msgid "Add New Team Group"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:79
+msgid "New Team Group"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:80
+msgid "Team Groups"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:96
+msgid "Enter Member Name"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:106
+msgid "Please upload square-cropped photos with a minimum dimension of 500px"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:117
+#: admin/team-manager-free-post-type.php:120
+msgid "Team Showcase updated."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:121
+#, php-format
+msgid "Team Showcase restored to revision from %s"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:122
+msgid "Team Showcase published."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:123
+msgid "Team Showcase saved."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:124
+msgid "Team Showcase submitted."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:125
+#, php-format
+msgid "Team Showcase scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:125
+#: admin/team-manager-free-post-type.php:209
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:126
+msgid "Team Showcase draft updated."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:135
+msgid "Create Shortcode"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:145
+msgid "Team Shortcodes"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:146
+#: admin/team-manager-free-post-type.php:461
+msgid "Shortcode"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:147
+#: admin/team-manager-free-post-type.php:163
+msgid "Shortcodes"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:148
+msgid "Parent Shortcode"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:149
+msgid "All Shortcodes"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:150
+msgid "View Shortcode"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:151
+msgid "Create New Team Shortcode"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:152
+msgid "Add New Team Shortcode"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:153
+msgid "Edit Team Shortcode"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:154
+msgid "Update Team Shortcode"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:155
+msgid "Search Team Shortcode"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:156
+msgid "Team Shortcode Not Found"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:157
+msgid "Team Shortcode Not found in Trash"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:164
+msgid "Shortcode news and reviews"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:192
+msgid "Enter Shortcode Name For Identity"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:201
+msgid "Team Shortcode updated."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:204
+msgid "Shortcode updated."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:205
+#, php-format
+msgid "Shortcode restored to revision from %s"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:206
+msgid "Team Shortcode published."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:207
+msgid "Team Shortcode saved."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:208
+msgid "Team Shortcode submitted."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:209
+#, php-format
+msgid "Shortcode scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:210
+msgid "Shortcode draft updated."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:403
+msgid "Image"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:404
+msgid "Name"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:405
+msgid "Short Description"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:406
+msgid "Designation"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:407
+msgid "Groups"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:408
+msgid "Date"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:427
+msgid "None"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:480
+msgid "Team Options"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:597
+msgid "Select Category"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:600
+msgid ""
+"Select Team Showcase Category.( <span style=\"color:red\">Multiple "
+"categories select option only available in pro version</span>)"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:605
+msgid "Select Themes"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:635
+msgid ""
+"Choose Your Team Showcase Style. all style is not available in free version. "
+"upgrade pro version to unlock all features."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:640
+msgid "Order Team Member"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:647
+msgid "Order Team member by (Date, Menu Order or Random Order)."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:653
+msgid "Team Image Size"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:660
+msgid "Choose member image size default or custom size."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:670
+msgid "Custom image height without (px). default image height: 220px."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:676
+msgid "Team Member Column"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:686
+msgid "Select team member column."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:692
+msgid "Column Margin Bottom"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:696
+msgid "Choose team member column margin bottom size. default font size (15px)"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:702
+msgid "Column Margin Left/Right"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:706
+msgid ""
+"Choose team member column margin left/Right size. default font size (5px)"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:711
+msgid "Social Profile Link"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:717
+msgid "Open Social Profile Link Same page or New page."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:734
+msgid "Name Font Size"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:738
+msgid "Select team member name font size. default font size (15px)"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:744
+msgid "Name Font Color"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:748
+msgid "Choose team member name font Color. default font color:#007acc"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:754
+msgid "Name Hover Font Color"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:758
+msgid "Choose team member name hover font Color.default font color:#333333"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:764
+msgid "Name Text Transform"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:773
+msgid ""
+"Choose team member name text transform.default text-transform: Capitilize"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:779
+msgid "Designation Font Size"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:783
+msgid "Select Team member Designation Font Size. default font size (12px)"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:789
+msgid "Designation Font Color"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:793
+msgid "Choose Team member Designation Font Color.default font color:#333333"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:799
+msgid "Designation Text Transform"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:808
+msgid ""
+"Choose team member designation text transform.default text-transform: "
+"Capitilize"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:814
+msgid "Short Biography"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:820
+msgid "Show/Hide Team Member Short Biography."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:825
+msgid "Biography Font Size"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:829
+msgid "Select Team member Biography Font Size. default font size (12px)"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:834
+msgid "Biography Text Alignment"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:842
+msgid "Team member all text Alignment."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:848
+msgid "Biography Font Color"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:852
+msgid "Choose Team member biography font color.default font color:#000000"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:858
+msgid "Overlay Background Color"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:862
+msgid ""
+"Choose Team member overlay background Color.default overaly color:#c1c1c1"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:868
+msgid "Member Background Color"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:872
+msgid "Choose Team member Background Color.default background color:#f8f8f8"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:896
+msgid "Show/Hide Social Icons on front page."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:955
+msgid "Show/Hide Team Member popup details page."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:969
+msgid "Choose Team Member popup page style."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:984
+msgid "Choose Team Member popup page position."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:998
+msgid "Show/Hide Team Member Designation in popup page."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:1014
+msgid "Show/Hide Team Member Email in popup page."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:1028
+msgid "Show/Hide Team Member Contact info in popup page."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:1043
+msgid "Show/Hide Team Member Address info in popup page."
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:1065
+msgid "Need Support"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:1089
+msgid "Happy user"
+msgstr ""
+
+#: admin/team-manager-free-post-type.php:1092
+msgid ""
+"If you are happy with the Team Showcase, say it on wordpress.org and give "
+"Team Showcase a nice review!"
+msgstr ""
